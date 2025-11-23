@@ -1,0 +1,23 @@
+{
+    "extends": "./.wxt/tsconfig.json",
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/*": [
+                "./*"
+            ]
+        },
+        "noEmit": true,
+        "target": "ESNext",
+        "moduleResolution": "Bundler",
+        "jsx": "react-jsx"
+    },
+    "include": [
+        "entrypoints/**/*",
+        "utils/**/*",
+        "components/**/*",
+        "hooks/**/*",
+        ".wxt/types/**/*",
+        "public/page.js"
+    ]
+}
