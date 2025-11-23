@@ -138,9 +138,9 @@ The extension consists of several key components:
 
 3. **Run in development mode**:
    ```bash
-   npm run dev
+   bun run dev
    # or for Firefox
-   npm run dev-f
+   bun run dev-f
    ```
 
    This will:
@@ -159,9 +159,9 @@ The extension consists of several key components:
 Build the extension for production:
 
 ```bash
-npm run build
+bun run build
 # or for Firefox
-npm run build:firefox
+bun run build:firefox
 ```
 
 The built extension will be in `.output/chrome-mv3` or `.output/firefox-mv2`.
@@ -171,9 +171,9 @@ The built extension will be in `.output/chrome-mv3` or `.output/firefox-mv2`.
 Create a ZIP file for distribution:
 
 ```bash
-npm run zip
+bun run zip
 # or for Firefox
-npm run zip:firefox
+bun run zip:firefox
 ```
 
 The ZIP file will be created in the `.output` directory.
@@ -183,7 +183,7 @@ The ZIP file will be created in the `.output` directory.
 Check TypeScript types without building:
 
 ```bash
-npm run compile
+bun run compile
 ```
 
 ## Project Structure
