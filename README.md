@@ -249,7 +249,8 @@ If you see rate limit errors:
 
 ## License
 
-
+This project is freely licensed under the [0BSD License](LICENSE). You may copy it or modify it or anything else you want.
 
 ## Contributing
 
+Please follow our [Contributing](.github/CONTRIBUTING.md) when you make a pull request.
