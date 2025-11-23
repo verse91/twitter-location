@@ -1,6 +1,6 @@
-# Contributing to Aegirus
+# Contributing to Twitter Location
 
-Thank you for your interest in Aegirus. We welcome community contributions and appreciate your time and effort in helping improve the project. Before getting started, please take a moment to review these guidelines.
+Thank you for your interest in Twitter Location. We welcome community contributions and appreciate your time and effort in helping improve the project. Before getting started, please take a moment to review these guidelines.
 
 Need to contact? Reach out to my Telegram [@justtheverse](t.me/JustTheVerse).
 
@@ -33,8 +33,8 @@ Use clear and descriptive commit messages. Follow the conventional commit format
 By submitting a contribution, you represent and warrant that:
 
 - It is your original work, or you have sufficient rights to submit it.
-- You grant the Aegirus maintainers and users the right to use, modify, and distribute it under the 0BSD license (see LICENSE file)
-- To the extent your contribution is covered by patents, you grant a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license to the Aegirus maintainers and users to make, use, sell, offer for sale, import, and otherwise transfer your contribution as part of the project.
+- You grant the Twitter Location maintainers and users the right to use, modify, and distribute it under the 0BSD license (see LICENSE file)
+- To the extent your contribution is covered by patents, you grant a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license to the Twitter Location maintainers and users to make, use, sell, offer for sale, import, and otherwise transfer your contribution as part of the project.
 
 We do not require a Contributor License Agreement (CLA). However, by contributing, you agree to license your submission under terms compatible with the 0BSD License and to grant the patent rights described above. If your contribution includes third-party code, you are responsible for ensuring it is 0BSD-compatible and properly attributed.
 
@@ -53,7 +53,7 @@ To maintain a consistent codebase, please follow these guidelines:
 
 If you find a bug or have a feature request, please open an issue and provide as much detail as possible:
 
-- Steps to reproduce, including operating system, and Aegirus version
+- Steps to reproduce, including operating system, and Twitter Location version
 - Expected and actual behavior
 - Suspected cause (if any)
 
