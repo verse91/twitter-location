@@ -35,7 +35,7 @@
     <td width="50%"><img height="449" alt="image" src="https://github.com/user-attachments/assets/8c40e6d5-48a0-48f2-ad47-b58bd6f88e27" /></td>
   </table>
   <br>
-  <i>You can hover profile picture or display name</i>
+  <i>You can hover profile picture or display name to show</i>
 </div>
 
 ---
