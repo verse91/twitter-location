@@ -1,15 +1,32 @@
-# Twitter Location Extension
+<div align="center">
+  <h1>Twitter Location Extension</h1>
+</div>
 
-A browser extension that displays country flags and location information next to Twitter (X.com) usernames when you hover over them. Built with WXT framework and React.
+<div align="center" >
+  <img src="https://github.com/user-attachments/assets/8c40e6d5-48a0-48f2-ad47-b58bd6f88e27" width="50%">
+</div>
+<div align="center" >
+  <i>A browser extension that displays country flags and location information next to Twitter (X.com) usernames when you hover over them. Built with WXT framework and React.</i>
+</div>
+
+
+> [!WARNING]
+> Please do not test on many profiles, you can cause rate limiting  
+> READ CAREFULLY BEFORE USING
+
+> [!IMPORTANT]
+> On first run or reload, please hover on the display name or avatar first  
+> Then hover on the username on the hover card to let the extension to work
+> I still can't solve this problem
 
 ## Features
 
-- 🌍 **Country Flags**: Automatically displays country flags next to usernames in hover cards
-- 📍 **Location Display**: Shows the full country/region name alongside the flag (e.g., "🇺🇸 United States")
-- ⚡ **Smart Caching**: Caches location data for 30 days to minimize API calls
-- 🎯 **Hover Detection**: Works on both username links and avatars
-- 🔄 **Real-time Updates**: Automatically updates when new tweets load
-- ⚙️ **Settings**: Toggle extension on/off and view cached locations
+- **Country Flags**: Automatically displays country flags next to usernames in hover cards
+- **Location Display**: Shows the full country/region name alongside the flag (e.g., "🇺🇸 United States")
+- **Smart Caching**: Caches location data for 30 days to minimize API calls
+- **Hover Detection**: Works on both username links and avatars
+- **Real-time Updates**: Automatically updates when new tweets load
+- **Settings**: Toggle extension on/off and view cached locations
 
 ## How It Works
 
@@ -69,7 +86,7 @@ The extension consists of several key components:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/verse91/twitter-location.git
    cd twitter-location
    ```
 
@@ -141,7 +158,7 @@ twitter-location/
 │   │   ├── App.tsx            # React popup component
 │   │   ├── main.tsx           # Popup entry point
 │   │   └── style.css          # Popup styles
-│   └── options/                # Options page (if needed)
+│   └── options/               # Options page (if needed)
 ├── utils/                     # Utility modules
 │   ├── cache.ts               # Cache management
 │   ├── api.ts                 # API request handling
@@ -227,14 +244,12 @@ If you see rate limit errors:
 
 ## Browser Compatibility
 
-- ✅ Chrome/Chromium (Manifest V3)
-- ✅ Firefox (Manifest V2)
-- ✅ Edge (Manifest V3)
+- Chromium based browsers (Manifest V3)
+- Firefox based browsers (Manifest V2)
 
 ## License
 
-[Add your license here]
+
 
 ## Contributing
 
-[Add contribution guidelines here]
