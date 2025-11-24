@@ -16,8 +16,8 @@
 <div align="center">
 
   [![Twitter](https://img.shields.io/badge/JustTheVerse-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/justtheverse)
-  [![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://developer.chrome.com/docs/extensions)
-  [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://addons.mozilla.org/en-US/developers/)
+  [![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://github.com/verse91/twitter-location/releases/tag/v0.0.2)
+  [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://github.com/verse91/twitter-location/releases/tag/v0.0.2)
 
 </div>
 
